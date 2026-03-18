@@ -11,4 +11,4 @@
 
 Best of luck Folks
 
-<img src="https://media.gifdb.com/best-of-luck-to-you-brother-ba7wj77nf1t0tyeb.gif" width="300" alt="best of luck">
+![Best of Luck](./assets/giphy.gif)
