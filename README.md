@@ -10,4 +10,5 @@
 4. Extra marks for a video explaining your solution and approach
 
 Best of luck Folks
-<https://media.gifdb.com/best-of-luck-to-you-brother-ba7wj77nf1t0tyeb.gif>
+
+![Alt text](https://media.gifdb.com/best-of-luck-to-you-brother-ba7wj77nf1t0tyeb.gif)
