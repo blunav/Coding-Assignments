@@ -1,0 +1,28 @@
+<!-- Simplified Snippet for public/index.html -->
+<div id="app">
+  <header>
+    <select id="currency-selector">
+      <option value="USD">USD</option>
+      <option value="EUR">EUR</option>
+    </select>
+  </header>
+
+  <aside id="filter-sidebar" class="desktop-only">
+    <!-- Becomes mobile-drawer via CSS media queries -->
+    <h3>Filters</h3>
+  </aside>
+
+  <main>
+    <div class="product" data-id="item-1">
+      <h2>Premium Widget</h2>
+      <p class="price" data-base-price="100">$100.00</p>
+      <button id="add-to-cart">Add to Cart</button>
+    </div>
+    
+    <div id="cart-summary">
+      <p>Subtotal: <span id="subtotal">$0.00</span></p>
+      <p>Tax: <span id="tax-amount">$0.00</span></p>
+      <button id="checkout-btn">Checkout</button>
+    </div>
+  </main>
+</div>
